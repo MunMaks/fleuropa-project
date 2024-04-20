@@ -1,6 +1,5 @@
-# fleuropa-project
+# Fleuropa
 
-Fleuropa
 
 ## Description
 
